@@ -1,0 +1,40 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+production_1:
+  account_id: 1
+  cluster: production
+  name: riak/0
+  state: running
+  cloud_properties_json: '{"instance_type": "m1.small"}'
+production_2:
+  account_id: 1
+  cluster: production
+  name: riak/1
+  state: running
+  cloud_properties_json: '{"instance_type": "m1.small"}'
+production_3:
+  account_id: 1
+  cluster: production
+  name: riak/2
+  state: running
+  cloud_properties_json: '{"instance_type": "m1.small"}'
+production_4:
+  account_id: 1
+  cluster: production
+  name: riak/3
+  state: running
+  cloud_properties_json: '{"instance_type": "m1.small"}'
+production_5:
+  account_id: 1
+  cluster: production
+  name: riak/4
+  state: running
+  cloud_properties_json: '{"instance_type": "m1.small"}'
+
+development_1:
+  account_id: 1
+  cluster: development
+  name: riak-dev/0
+  state: running
+  cloud_properties_json: '{"instance_type": "m1.small"}'

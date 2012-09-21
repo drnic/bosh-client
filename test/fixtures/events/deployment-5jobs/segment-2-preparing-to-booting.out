@@ -1,0 +1,16 @@
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":5,"state":"started","progress":0}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/1","tags":[],"index":2,"total":5,"state":"started","progress":0}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/2","tags":[],"index":3,"total":5,"state":"started","progress":0}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/3","tags":[],"index":4,"total":5,"state":"started","progress":0}
+{"time":1345426614,"stage":"Creating bound missing VMs","task":"common/4","tags":[],"index":5,"total":5,"state":"started","progress":0}
+{"time":1345426724,"stage":"Creating bound missing VMs","task":"common/4","tags":[],"index":5,"total":5,"state":"finished","progress":100}
+{"time":1345426735,"stage":"Creating bound missing VMs","task":"common/2","tags":[],"index":3,"total":5,"state":"finished","progress":100}

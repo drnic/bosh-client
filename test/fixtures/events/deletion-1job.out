@@ -1,0 +1,9 @@
+# Logfile created on 2012-08-22 04:21:05 +0000 by logger.rb/25413
+{"time":1345609271,"stage":"Deleting instances","task":"riak-dev/0","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345609306,"stage":"Deleting instances","task":"riak-dev/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detach stemcells","tags":[],"index":1,"total":3,"state":"started","progress":0}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detach stemcells","tags":[],"index":1,"total":3,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detaching releases","tags":[],"index":2,"total":3,"state":"started","progress":0}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detaching releases","tags":[],"index":2,"total":3,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Deleting properties","task":"Destroy deployment","tags":[],"index":1,"total":0,"state":"started","progress":0}
+{"time":1345609306,"stage":"Deleting properties","task":"Destroy deployment","tags":[],"index":1,"total":0,"state":"finished","progress":100}

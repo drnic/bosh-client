@@ -1,0 +1,2 @@
+# Logfile created on 2012-08-22 04:21:05 +0000 by logger.rb/25413
+{"time":1345609271,"stage":"Deleting instances","task":"riak-dev/0","tags":[],"index":1,"total":1,"state":"started","progress":0}

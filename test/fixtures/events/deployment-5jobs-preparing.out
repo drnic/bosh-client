@@ -1,0 +1,13 @@
+# Logfile created on 2012-08-20 01:36:46 +0000 by logger.rb/25413
+#
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"started","progress":0}

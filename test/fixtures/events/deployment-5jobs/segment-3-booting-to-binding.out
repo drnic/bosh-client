@@ -1,0 +1,8 @@
+{"time":1345426761,"stage":"Creating bound missing VMs","task":"common/3","tags":[],"index":4,"total":5,"state":"finished","progress":100}
+{"time":1345426771,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":5,"state":"finished","progress":100}
+{"time":1345426789,"stage":"Creating bound missing VMs","task":"common/1","tags":[],"index":2,"total":5,"state":"finished","progress":100}
+{"time":1345426789,"stage":"Binding instance VMs","task":"redis/0","tags":[],"index":1,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"gitlabhq/0","tags":[],"index":2,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"gitolite/0","tags":[],"index":3,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"postgres/0","tags":[],"index":4,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"resque/0","tags":[],"index":5,"total":5,"state":"started","progress":0}

@@ -1,0 +1,16 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+# one:
+#   manifest_template_id: 1
+#   property_set_id: 1
+#   bosh_target_id: 1
+#   cluster_id: 1
+#   manifest: MyText
+# 
+# two:
+#   manifest_template_id: 1
+#   property_set_id: 1
+#   bosh_target_id: 1
+#   cluster_id: 1
+#   manifest: MyText

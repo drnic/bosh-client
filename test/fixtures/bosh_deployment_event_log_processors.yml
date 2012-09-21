@@ -1,0 +1,14 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+# one:
+#   bosh_deployment_id: 1
+#   current_stage: MyString
+#   started_at: 2012-08-27 08:25:29
+#   finished_at: 2012-08-27 08:25:29
+# 
+# two:
+#   bosh_deployment_id: 1
+#   current_stage: MyString
+#   started_at: 2012-08-27 08:25:29
+#   finished_at: 2012-08-27 08:25:29

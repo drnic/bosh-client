@@ -1,0 +1,7 @@
+boot_development_cluster-aws:
+  name: boot_development_cluster-aws
+  source_file: '<%= File.join(Rails.root, "lib/manifests/boot_development_cluster-aws.yml.erb") %>'
+
+boot_production_cluster-aws:
+  name: boot_production_cluster-aws
+  source_file: '<%= File.join(Rails.root, "lib/manifests/boot_production_cluster-aws.yml.erb") %>'

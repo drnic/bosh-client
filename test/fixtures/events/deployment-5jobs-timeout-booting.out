@@ -1,0 +1,33 @@
+# Logfile created on 2012-09-04 03:32:20 +0000 by logger.rb/25413
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1346729547,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1346729547,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1346729548,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":5,"state":"started","progress":0}
+{"time":1346729548,"stage":"Creating bound missing VMs","task":"common/1","tags":[],"index":2,"total":5,"state":"started","progress":0}
+{"time":1346729548,"stage":"Creating bound missing VMs","task":"common/2","tags":[],"index":3,"total":5,"state":"started","progress":0}
+{"time":1346729548,"stage":"Creating bound missing VMs","task":"common/3","tags":[],"index":4,"total":5,"state":"started","progress":0}
+{"time":1346729548,"stage":"Creating bound missing VMs","task":"common/4","tags":[],"index":5,"total":5,"state":"started","progress":0}
+{"time":1346729915,"stage":"Creating bound missing VMs","task":"common/2","tags":[],"index":3,"total":5,"state":"failed","progress":100,"data":{"error":"Timed out pinging to 2152dd56-cede-4e3f-9931-6dfb78717c2a after 300 seconds"}}
+{"time":1346729924,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":5,"state":"failed","progress":100,"data":{"error":"Timed out pinging to 00265756-b8bb-4806-8a38-ca51d9222832 after 300 seconds"}}
+{"time":1346729924,"stage":"Creating bound missing VMs","task":"common/1","tags":[],"index":2,"total":5,"state":"failed","progress":100,"data":{"error":"Timed out pinging to 53c9cf95-6621-4ed9-a791-51873077db07 after 300 seconds"}}
+{"time":1346729925,"stage":"Creating bound missing VMs","task":"common/4","tags":[],"index":5,"total":5,"state":"failed","progress":100,"data":{"error":"Timed out pinging to 00e2d956-5fe0-420f-b399-8edc37dc300e after 300 seconds"}}
+{"time":1346729931,"stage":"Creating bound missing VMs","task":"common/3","tags":[],"index":4,"total":5,"state":"failed","progress":100,"data":{"error":"Timed out pinging to 6f1f2187-ab30-4636-9ce0-a0cddafb8372 after 300 seconds"}}
+{"time":1346729931,"error":{"code":450002,"message":"Timed out pinging to 2152dd56-cede-4e3f-9931-6dfb78717c2a after 300 seconds"}}
+

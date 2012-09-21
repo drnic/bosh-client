@@ -1,0 +1,11 @@
+{"time":1345609306,"stage":"Deleting instances","task":"gitlabhq/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Deleting instances","task":"gitolite/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Deleting instances","task":"resque/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Deleting instances","task":"postgres/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Deleting instances","task":"redis/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detach stemcells","tags":[],"index":1,"total":3,"state":"started","progress":0}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detach stemcells","tags":[],"index":1,"total":3,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detaching releases","tags":[],"index":2,"total":3,"state":"started","progress":0}
+{"time":1345609306,"stage":"Removing deployment artifacts","task":"Detaching releases","tags":[],"index":2,"total":3,"state":"finished","progress":100}
+{"time":1345609306,"stage":"Deleting properties","task":"Destroy deployment","tags":[],"index":1,"total":0,"state":"started","progress":0}
+{"time":1345609306,"stage":"Deleting properties","task":"Destroy deployment","tags":[],"index":1,"total":0,"state":"finished","progress":100}

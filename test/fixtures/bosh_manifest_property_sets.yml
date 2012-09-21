@@ -1,0 +1,29 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+production:
+  cluster_name: riak-cluster-CLUSTER_UUID
+  cluster_uuid: CLUSTER_UUID
+  director_uuid: aws_us_east_1_uuid
+  release_name: riak
+  release_version: 5
+  cluster_size: 5
+  stemcell_name: bosh-stemcell
+  stemcell_version: "0.6.4"
+  instance_type: m1.small
+  static_ips: "1.2.3.11,1.2.3.12,1.2.3.13,1.2.3.14,1.2.3.15"
+  created_at: <%= DateTime.now %>
+  updated_at: <%= DateTime.now %>
+
+development:
+  cluster_name: riak-dev-CLUSTER_UUID
+  cluster_uuid: CLUSTER_UUID
+  director_uuid: aws_us_east_1_uuid
+  release_name: riak
+  release_version: 5
+  stemcell_name: bosh-stemcell
+  stemcell_version: "0.6.4"
+  instance_type: m1.small
+  created_at: <%= DateTime.now %>
+  updated_at: <%= DateTime.now %>
+

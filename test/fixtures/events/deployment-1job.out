@@ -1,0 +1,30 @@
+# Logfile created on 2012-08-20 01:36:46 +0000 by logger.rb/25413
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426789,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426789,"stage":"Binding instance VMs","task":"riak-dev/0","tags":[],"index":1,"total":0,"state":"started","progress":0}
+{"time":1345426790,"stage":"Binding instance VMs","task":"riak-dev/0","tags":[],"index":1,"total":0,"state":"finished","progress":100}
+{"time":1345426790,"stage":"Preparing configuration","task":"Binding configuration","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426791,"stage":"Preparing configuration","task":"Binding configuration","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426800,"stage":"Updating job","task":"riak-dev/0 (canary)","tags":["riak-dev"],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345427150,"stage":"Updating job","task":"riak-dev/0 (canary)","tags":["riak-dev"],"index":1,"total":1,"state":"finished","progress":100}
+

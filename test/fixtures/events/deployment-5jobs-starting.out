@@ -1,0 +1,56 @@
+# Logfile created on 2012-08-20 01:36:46 +0000 by logger.rb/25413
+# postgres/0 started; redis/0 in progress
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding deployment","tags":[],"index":1,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding releases","tags":[],"index":2,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding existing deployment","tags":[],"index":3,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding resource pools","tags":[],"index":4,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding stemcells","tags":[],"index":5,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding templates","tags":[],"index":6,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding unallocated VMs","tags":[],"index":7,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing deployment","task":"Binding instance networks","tags":[],"index":8,"total":8,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing package compilation","task":"Finding packages to compile","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426613,"stage":"Preparing DNS","task":"Binding DNS","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":5,"state":"started","progress":0}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/1","tags":[],"index":2,"total":5,"state":"started","progress":0}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/2","tags":[],"index":3,"total":5,"state":"started","progress":0}
+{"time":1345426613,"stage":"Creating bound missing VMs","task":"common/3","tags":[],"index":4,"total":5,"state":"started","progress":0}
+{"time":1345426614,"stage":"Creating bound missing VMs","task":"common/4","tags":[],"index":5,"total":5,"state":"started","progress":0}
+{"time":1345426724,"stage":"Creating bound missing VMs","task":"common/4","tags":[],"index":5,"total":5,"state":"finished","progress":100}
+{"time":1345426735,"stage":"Creating bound missing VMs","task":"common/2","tags":[],"index":3,"total":5,"state":"finished","progress":100}
+{"time":1345426761,"stage":"Creating bound missing VMs","task":"common/3","tags":[],"index":4,"total":5,"state":"finished","progress":100}
+{"time":1345426771,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":5,"state":"finished","progress":100}
+{"time":1345426789,"stage":"Creating bound missing VMs","task":"common/1","tags":[],"index":2,"total":5,"state":"finished","progress":100}
+{"time":1345426789,"stage":"Binding instance VMs","task":"redis/0","tags":[],"index":1,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"gitlabhq/0","tags":[],"index":2,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"gitolite/0","tags":[],"index":3,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"postgres/0","tags":[],"index":4,"total":5,"state":"started","progress":0}
+{"time":1345426789,"stage":"Binding instance VMs","task":"resque/0","tags":[],"index":5,"total":5,"state":"started","progress":0}
+{"time":1345426790,"stage":"Binding instance VMs","task":"redis/0","tags":[],"index":1,"total":5,"state":"finished","progress":100}
+{"time":1345426790,"stage":"Binding instance VMs","task":"gitlabhq/0","tags":[],"index":2,"total":5,"state":"finished","progress":100}
+{"time":1345426790,"stage":"Binding instance VMs","task":"postgres/0","tags":[],"index":4,"total":5,"state":"finished","progress":100}
+{"time":1345426790,"stage":"Binding instance VMs","task":"gitolite/0","tags":[],"index":3,"total":5,"state":"finished","progress":100}
+{"time":1345426790,"stage":"Binding instance VMs","task":"resque/0","tags":[],"index":5,"total":5,"state":"finished","progress":100}
+{"time":1345426790,"stage":"Preparing configuration","task":"Binding configuration","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426791,"stage":"Preparing configuration","task":"Binding configuration","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426791,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426793,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"in_progress","progress":14}
+{"time":1345426793,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"in_progress","progress":28}
+{"time":1345426793,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"in_progress","progress":42}
+{"time":1345426793,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"in_progress","progress":57}
+{"time":1345426793,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"in_progress","progress":71}
+{"time":1345426802,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"in_progress","progress":85}
+{"time":1345426823,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"in_progress","progress":100}
+{"time":1345426823,"stage":"Updating job","task":"postgres/0 (canary)","tags":["postgres"],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426823,"stage":"Updating job","task":"redis/0 (canary)","tags":["redis"],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426825,"stage":"Updating job","task":"redis/0 (canary)","tags":["redis"],"index":1,"total":1,"state":"in_progress","progress":14}
+{"time":1345426825,"stage":"Updating job","task":"redis/0 (canary)","tags":["redis"],"index":1,"total":1,"state":"in_progress","progress":28}

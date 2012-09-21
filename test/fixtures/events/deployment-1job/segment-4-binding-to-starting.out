@@ -1,0 +1,4 @@
+{"time":1345426790,"stage":"Binding instance VMs","task":"riak-dev/0","tags":[],"index":1,"total":0,"state":"finished","progress":100}
+{"time":1345426790,"stage":"Preparing configuration","task":"Binding configuration","tags":[],"index":1,"total":1,"state":"started","progress":0}
+{"time":1345426791,"stage":"Preparing configuration","task":"Binding configuration","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426791,"stage":"Updating job","task":"riak-dev/0 (canary)","tags":["riak-dev"],"index":1,"total":1,"state":"started","progress":0}

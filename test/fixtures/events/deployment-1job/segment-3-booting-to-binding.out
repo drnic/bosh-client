@@ -1,0 +1,2 @@
+{"time":1345426789,"stage":"Creating bound missing VMs","task":"common/0","tags":[],"index":1,"total":1,"state":"finished","progress":100}
+{"time":1345426789,"stage":"Binding instance VMs","task":"riak-dev/0","tags":[],"index":1,"total":0,"state":"started","progress":0}

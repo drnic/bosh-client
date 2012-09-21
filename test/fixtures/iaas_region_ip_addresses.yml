@@ -1,0 +1,43 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+unallocated_11_us_east_1:
+  ip_address: 1.2.3.11
+  iaas_region: aws_us_east_1
+  state: provisioned
+
+unallocated_12_us_east_1:
+  ip_address: 1.2.3.12
+  iaas_region: aws_us_east_1
+  state: provisioned
+
+unallocated_13_us_east_1:
+  ip_address: 1.2.3.13
+  iaas_region: aws_us_east_1
+  state: provisioned
+
+unallocated_14_us_east_1:
+  ip_address: 1.2.3.14
+  iaas_region: aws_us_east_1
+  state: provisioned
+
+unallocated_15_us_east_1:
+  ip_address: 1.2.3.15
+  iaas_region: aws_us_east_1
+  state: provisioned
+
+unallocated_16_us_east_1:
+  ip_address: 1.2.3.16
+  iaas_region: aws_us_east_1
+  state: provisioned
+
+unallocated_6789_us_west_2:
+  ip_address: 6.7.8.9
+  iaas_region: aws_us_west_2
+  state: provisioned
+
+development:
+  ip_address: 10.10.10.10
+  iaas_region: aws_us_east_1
+  assigned_to_cluster: development
+  state: assigned

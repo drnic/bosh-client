@@ -1,0 +1,20 @@
+{"time":1348265578,"stage":"Updating release","task":"Extracting release","tags":[],"index":1,"total":3,"state":"started","progress":0}
+{"time":1348265581,"stage":"Updating release","task":"Extracting release","tags":[],"index":1,"total":3,"state":"finished","progress":100}
+{"time":1348265581,"stage":"Updating release","task":"Verifying manifest","tags":[],"index":2,"total":3,"state":"started","progress":0}
+{"time":1348265581,"stage":"Updating release","task":"Verifying manifest","tags":[],"index":2,"total":3,"state":"finished","progress":100}
+{"time":1348265581,"stage":"Updating release","task":"Save release version","tags":[],"index":3,"total":3,"state":"started","progress":0}
+{"time":1348265582,"stage":"Updating release","task":"Save release version","tags":[],"index":3,"total":3,"state":"finished","progress":100}
+{"time":1348265582,"stage":"Creating new packages","task":"curl/0.1-dev","tags":[],"index":1,"total":5,"state":"started","progress":0}
+{"time":1348265582,"stage":"Creating new packages","task":"curl/0.1-dev","tags":[],"index":1,"total":5,"state":"finished","progress":100}
+{"time":1348265582,"stage":"Creating new packages","task":"java7/0.1-dev","tags":[],"index":2,"total":5,"state":"started","progress":0}
+{"time":1348265585,"stage":"Creating new packages","task":"java7/0.1-dev","tags":[],"index":2,"total":5,"state":"finished","progress":100}
+{"time":1348265585,"stage":"Creating new packages","task":"kibana/0.7-dev","tags":[],"index":3,"total":5,"state":"started","progress":0}
+{"time":1348265585,"stage":"Creating new packages","task":"kibana/0.7-dev","tags":[],"index":3,"total":5,"state":"finished","progress":100}
+{"time":1348265585,"stage":"Creating new packages","task":"logstash-monolithic/0.4-dev","tags":[],"index":4,"total":5,"state":"started","progress":0}
+{"time":1348265590,"stage":"Creating new packages","task":"logstash-monolithic/0.4-dev","tags":[],"index":4,"total":5,"state":"finished","progress":100}
+{"time":1348265590,"stage":"Creating new packages","task":"ruby/0.1-dev","tags":[],"index":5,"total":5,"state":"started","progress":0}
+{"time":1348265591,"stage":"Creating new packages","task":"ruby/0.1-dev","tags":[],"index":5,"total":5,"state":"finished","progress":100}
+{"time":1348265591,"stage":"Creating new jobs","task":"kibana/0.3-dev","tags":[],"index":1,"total":2,"state":"started","progress":0}
+{"time":1348265591,"stage":"Creating new jobs","task":"kibana/0.3-dev","tags":[],"index":1,"total":2,"state":"finished","progress":100}
+{"time":1348265591,"stage":"Creating new jobs","task":"logstash-monolithic/0.6-dev","tags":[],"index":2,"total":2,"state":"started","progress":0}
+{"time":1348265591,"stage":"Creating new jobs","task":"logstash-monolithic/0.6-dev","tags":[],"index":2,"total":2,"state":"finished","progress":100}

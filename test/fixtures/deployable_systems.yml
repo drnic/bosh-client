@@ -1,0 +1,21 @@
+riak:
+  name: Riak
+  uuid: riak
+  enabled: true
+  logo: http://upload.wikimedia.org/wikipedia/en/5/53/Riak_product_logo.png
+github:
+  name: GitHub
+  uuid: github
+  enabled: false
+  logo: https://raw.github.com/github/media/master/logos/github_logo_social_coding_outlined.png
+campfire:
+  name: Campfire
+  uuid: campfire
+  enabled: false
+  logo: http://37signals.com/svn/images/campfire-logo-for-fluid.png
+hubot:
+  name: Hubot
+  uuid: hubot
+  enabled: false
+  logo: https://raw.github.com/hubot/hubot.github.com/master/hubot.png
+  

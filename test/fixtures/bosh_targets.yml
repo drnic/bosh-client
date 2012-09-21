@@ -1,0 +1,18 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+aws_us_east_1:
+  target: "http://9.8.7.6:25555"
+  target_name: "microbosh-aws-us-east-1"
+  target_uuid: aws_us_east_1_uuid
+  login: "eyriak"
+  password: "eyriak"
+  iaas_region: aws_us_east_1
+
+aws_us_west_2:
+  target: "http://19.18.17.16:25555"
+  target_name: "microbosh-aws-us-west-2"
+  target_uuid: aws_us_west_2_uuid
+  login: "eyriak"
+  password: "eyriak"
+  iaas_region: aws_us_west_2

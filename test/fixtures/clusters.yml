@@ -1,0 +1,25 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+new:
+  account_id: 1
+  iaas_region: aws_us_east_1
+  bosh: aws_us_east_1
+  state: pending
+  uuid: CLUSTER_UUID
+
+production:
+  account_id: 1
+  iaas_region: aws_us_east_1
+  bosh: aws_us_east_1
+  state: running
+  uuid: PRODUCTION_CLUSTER_UUID
+  name: riak-cluster-PRODUCTION_CLUSTER_UUID
+
+development:
+  account_id: 1
+  iaas_region: aws_us_east_1
+  bosh: aws_us_east_1
+  state: running
+  uuid: DEVELOPMENT_CLUSTER_UUID
+  name: riak-dev-DEVELOPMENT_CLUSTER_UUID

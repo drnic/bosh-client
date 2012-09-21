@@ -1,6 +1,6 @@
 # Bosh::Client
 
-TODO: Write a gem description
+Ruby library for making requests to a BOSH Director, and for polling running tasks for status and outcome.
 
 ## Installation
 

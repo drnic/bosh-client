@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Bosh::Client::VERSION
   gem.authors       = ["Dr Nic Williams"]
   gem.email         = ["drnicwilliams@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Ruby library for making requests to a BOSH Director, and for polling running tasks for status and outcome.}
+  gem.summary       = %q{Ruby library for making requests to a BOSH Director, and for polling running tasks for status and outcome.}
+  gem.homepage      = "https://github.com/drnic/bosh-client"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
